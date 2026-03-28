@@ -3,14 +3,11 @@
 **Contributor:** Yogendra Singh Maurya  
 **Mentors:** @walterbender, @omsuneri  
 **Organization:** SugarLabs  
-**Project:** Music Blocks v3.4.1  
-**Timeline:** 175 hours (Medium Project, 5 days)
+**Education:** Bachelor of Technology in (Computer Science Engineering)
+Institution: Pranveer Singh Institude Of Technology (PSIT) Kanpur
+Affiliated by Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
+Duration: 2024-2028 (currently IV sem.)
 
----
-
-## Education
-
-Full-stack JavaScript developer specializing in performance optimization, debugging, and testing infrastructure. Active Music Blocks contributor with expertise in Web Audio API, AMD module architecture, and cross-browser compatibility.
 
 ---
 
